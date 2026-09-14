@@ -1,4 +1,3 @@
-
 # Blog Web
 
 A full-stack blogging platform built with React and Firebase.  
